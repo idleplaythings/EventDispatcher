@@ -1,5 +1,4 @@
 # Event
-=====
 
 Super hyper simple event dispatcher implementation.
 
