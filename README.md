@@ -6,7 +6,7 @@ Super hyper simple event dispatcher implementation.
 
 Instantiate the event dispatcher
 
-    var dispatcher = new EventDispatcher();
+    var dispatcher = new event.Dispatcher();
     
 Attach an event
 
@@ -16,7 +16,7 @@ Attach an event
     
 Dispatch an event
 
-    dispatcher.dispatc({name: 'eventName'});
+    dispatcher.dispatch({name: 'eventName'});
     
 ## License
 
